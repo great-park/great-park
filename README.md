@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=80&section=header&text=ChanhoPark&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=80&section=header&text=ChanhoPark&fontSize=30&animation=fadeIn)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=great-park&show_icons=true&theme=radical)
 
