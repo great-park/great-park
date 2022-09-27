@@ -1,10 +1,16 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=80&section=header&text=ChanhoPark&fontSize=50&animation=fadeIn)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=great-park&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cksgh1735)](https://solved.ac/cksgh1735)
 
 <!--
 **great-park/great-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=great-park&theme=dracula)
+🔭 Projects currently working on : Runnerbe and Kudog(devkor) 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
