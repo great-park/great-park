@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Resume
+[박찬호 이력서](https://reinvented-stove-1ff.notion.site/7705edae559144d4aedf6a5f2b2b96e2?pvs=4)
