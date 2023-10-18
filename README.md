@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 ### Resume
-[박찬호 이력서](https://reinvented-stove-1ff.notion.site/7705edae559144d4aedf6a5f2b2b96e2?pvs=4)
+[박찬호 이력서](https://reinvented-stove-1ff.notion.site/715fdb9f668a41218d4f2833565121d2?pvs=4)
