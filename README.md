@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=80&section=header&text=ChanhoPark&fontSize=30&animation=fadeIn)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{great-park}"/>
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=great-park&show_icons=true&theme=radical)
 
@@ -20,7 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-### Resume
-[박찬호 이력서](https://reinvented-stove-1ff.notion.site/715fdb9f668a41218d4f2833565121d2?pvs=4)
